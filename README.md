@@ -1,4 +1,4 @@
-# Chatbot UI
+# 社内用 ChatGPT クローン
 
 ## News
 
